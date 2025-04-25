@@ -24,7 +24,7 @@ int main() {
     char Codigo2[5];
     char Nome2[50];
     int Populacao2;
-    float Area;
+    float Area2;
     float PIB2;
     int Pontos2;
 
